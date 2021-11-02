@@ -1,7 +1,16 @@
 1. Client = kelompok 9
    Developers = kelompok 7 
-   Pembuatan Aplikasi Laundry (Admin)
+   Pembuatan Aplikasi Laundry berbasis website
    
+   (Bagian User)
+   -Menu Login
+   -Profil
+   -Pemesanan 
+   -Estimasi selesai 
+   -Pembayaran
+   -Status Laundry
+   
+   (Bagian Admin)
    - Menu Login
    - Dashboard
    - Profil Admin
