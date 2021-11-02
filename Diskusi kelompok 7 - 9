@@ -14,5 +14,18 @@
    Developers = kelompok 9 
    Pembuatan Aplikasi Pemesanan Makanan
    
+  Bagian User
+-login
+-menu makanan/minuman
+-pesan 
+-edit pesanan
+-hapus pesanan
+  Bagian admin
+-login admin
+-dasbord 
+-data menu 
+-data pemesanan
+-logout
+
    
    
