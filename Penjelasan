@@ -1,0 +1,17 @@
+jadi disini kita membuat aplikasi laundry berbasis website 
+
+User 
+•	User dapat login ke aplikasi, 
+•	dapat membuat profil dan menginputkan no wa yang dapat dihubungi kurir, 
+•	dapat memesan laundry di menu pemesanan terdapat juga informasi biaya laundry dan ongkir yang perlu dibayar serta dapat memesan
+•	setelah user sudah order jasa laundry akan dihubungi oleh kurir lewat wa untuk pengambilan dan pengiriman ketika selesai,
+•	user juga dapat mengetahui estimasi waktu selesai laundry dari pakaian nya,
+•	di menu pembayaran ada pilihan cara membayar apakah akan dibayar langsung atau di transfer jika dibayar langsung nanti uang nya di titipkan ke kurir,
+•	di status laundry berisi informasi laundry seperti buka atau tutup dan berapa banyak antrian yang ada.
+Admin 
+•	dapat login dan membuat profil
+•	di daftar data customer ada data customer yang sedang melakukan laundry seperti nama, no WA, no antrian, estimasi selesai 
+•	di pesanan ada pesanan yang masuk dari customer,lalu admin memberikan no WA yang sudah tertera di data pesanan kemudian diberikan/ dihubungkan kepada kurir untuk dapat memberikan kabar lewat WA untuk pengambilan pakaian tersebut dan mengantarkannya 
+•	transaksi berisi transaksi yang terjadi seperti metode bayar customer, biaya laundry customer apakah + ongkir, + promo dsb. Dan status pembayaran customer
+•	laporan berisi laporan kegiatan yang terjadi selama beberapa waktu
+•	catatan keuangan berisi pemasukan dan pengeluaran yang terjadi
