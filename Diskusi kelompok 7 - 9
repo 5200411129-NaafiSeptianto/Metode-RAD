@@ -1,25 +1,25 @@
-1. Client = kelompok 9
-   Developers = kelompok 7 
-   Pembuatan Aplikasi Laundry berbasis website
-   
-   (Bagian User)
-   -Menu Login
-   -Profil User
-   -Pemesanan 
-   -Estimasi selesai 
-   -Pembayaran
-   -Status Laundry
-   
-   (Bagian Admin)
-   - Menu Login
-   - Dashboard
-   - Profil Admin
-   - Daftar data customer
-   - Pesanan 
-   - Transaksi 
-   - Laporan
-   - Catatan keuangan
-   - Logout
+Fitur User
+1.	Daftar 
+2.	Login
+3.	Melihat informasi biaya laundry dan ongkir
+4.	Melihat status laundry
+5.	Memesan laundry
+6.	Mengetahui estimasi waktu selesai laundry
+7.	Konfirmasi pemesanan
+8.	Melakukan pembayaran
+9.	Logout
+
+
+Fitur admin
+1.	Daftar
+2.	Login
+3.	Input data laundry
+4.	Melihat data customer
+5.	Melihat pesanan dari customer
+6.	Melihat status pembayaran customer
+7.	Membuat laporan data customer
+8.	Membuat laporan catatan keuangan
+9.	Logout
    
 2. Client = kelompok 7
    Developers = kelompok 9 
