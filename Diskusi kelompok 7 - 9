@@ -1,3 +1,8 @@
+ Client = kelompok 9
+ Developers = kelompok 7
+ Pembuatan Aplikasi Laundry Berbasis Website
+
+
 Fitur User
 1.	Daftar 
 2.	Login
@@ -13,13 +18,14 @@ Fitur User
 Fitur admin
 1.	Daftar
 2.	Login
-3.	Input data laundry
-4.	Melihat data customer
-5.	Melihat pesanan dari customer
-6.	Melihat status pembayaran customer
-7.	Membuat laporan data customer
-8.	Membuat laporan catatan keuangan
-9.	Logout
+3. input data edit dan tambah (biaya ongkir,biaya cuci dan jadwal buka)
+4.	Input data laundry
+5.	Melihat data customer
+6.	Melihat pesanan dari customer
+7.	Melihat status pembayaran customer
+8.	Membuat laporan data customer
+9.	Membuat laporan catatan keuangan
+10.Logout
    
 2. Client = kelompok 7
    Developers = kelompok 9 
