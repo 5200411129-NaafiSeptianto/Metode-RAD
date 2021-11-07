@@ -12,6 +12,7 @@ User
 Admin
 •	Jika admin belum memiliki akun maka bisa daftar terlebih dahulu,
 •	sudah memiliki akun maka admin dapat login ke aplikasi
+•	dibagain data padatampilan home disinibisa untuk mengedit data dan menambahkan data seperti biaya ongkir,biaya cucidan jadwal bukanya
 •       di data laundry admin bisa melihat data pemasukan,pengeluaran,data intensitas laundry,short time kost,long time kost dan bisa juga mengedit,menghapus atau menambah data tersebut
 •	di daftar data customer ada data customer yang sedang melakukan laundry seperti nama, no WA,alamat,dan intensitas order
 •	di pesanan ada pesanan yang masuk dari customer,lalu admin memberikan no WA yang sudah tertera di data pesanan kemudian diberikan/ dihubungkan kepada kurir untuk dapat memberikan kabar lewat WA untuk pengambilan pakaian tersebut dan mengantarkannya 
