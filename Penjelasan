@@ -7,7 +7,8 @@ User
 •	dapat memesan laundry di menu pemesanan terdapat juga informasi biaya laundry dan ongkir yang perlu dibayar serta dapat memesan
 •	setelah user sudah order jasa laundry akan dihubungi oleh kurir lewat wa untuk pengambilan dan pengiriman ketika selesai,
 •	user juga dapat mengetahui estimasi waktu selesai laundry dari pakaian nya dibagian konfirmasi pesanan,
-•	di menu pembayaran ada pilihan cara membayar apakah akan dibayar langsung atau di transfer jika dibayar langsung nanti uang nya di titipkan ke kurir,kalau transfer nantinya bisa menggunakan no salah satu akun penyedia pembayaran misalnya akun DANA,
+•	di menu pembayaran ada pilihan cara membayar apakah akan dibayar langsung atau di transfer jika dibayar langsung nanti uang nya di titipkan ke kurir dan juga disertakan bukti foto transaksi pembayaran ,kalau transfer nantinya bisa menggunakan no salah satu akun penyedia pembayaran misalnya akun DANA,
+•	kemudian logout akun,
 
 Admin
 •	Jika admin belum memiliki akun maka bisa daftar terlebih dahulu,
@@ -19,6 +20,6 @@ Admin
 •	pembayaran ,disiniadmin dapat melihat dan mngedit data cutomer seperti pembayaran LUNAS/BELUM
 •	laporan berisi laporan beberapa data customer 
 •	catatan keuangan berisi pemasukan,pengeluaran,dan tabungan long time kost yang terjadi dari /bulannya
-
+•	kemudian logout akun,
 
 
