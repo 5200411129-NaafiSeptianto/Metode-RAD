@@ -17,7 +17,7 @@ Admin
 •       di data laundry admin bisa melihat data pemasukan,pengeluaran,data intensitas laundry,short time kost,long time kost dan bisa juga mengedit,menghapus atau menambah data tersebut
 •	di daftar data customer ada data customer yang sedang melakukan laundry seperti nama, no WA,alamat,dan intensitas order
 •	di pesanan ada pesanan yang masuk dari customer,lalu admin memberikan no WA yang sudah tertera di data pesanan kemudian diberikan/ dihubungkan kepada kurir untuk dapat memberikan kabar lewat WA untuk pengambilan pakaian tersebut dan mengantarkannya 
-•	pembayaran ,disiniadmin dapat melihat dan mngedit data pembayaran cutomer seperti pembayaran LUNAS/BELUM
+•	pembayaran ,disini admin dapat melihat dan mengedit data pembayaran customer seperti pembayaran LUNAS/BELUM
 •	laporan berisi laporan beberapa data customer 
 •	catatan keuangan berisi pemasukan,pengeluaran,dan tabungan long time kost yang terjadi dari /bulannya
 •	kemudian logout akun,
