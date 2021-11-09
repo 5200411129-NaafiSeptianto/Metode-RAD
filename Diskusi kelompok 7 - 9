@@ -31,18 +31,29 @@ Fitur admin
    Developers = kelompok 9 
    Pembuatan Aplikasi Pemesanan Makanan
    
-  Bagian User
--login
--menu makanan/minuman
--pesan 
--edit pesanan
--hapus pesanan
-  Bagian admin
--login admin
--dasbord 
--data menu 
--data pemesanan
--logout
+Fitur user :
+1. Memilih menu makanan/minuman
+2. Hapus menu
+3. Tambah menu
+4. Kirim pesanan
 
+Fitur Admin :
+1. Login 
+2. Data meja
+3. Data menu restoran
+4. Simpan data 
+5. Edit data
+5. Hapus data
+6. Laporan penjualan
+7. Logout
+
+Fitur Kasir :
+1. Menu kasir
+2. Pesanan masuk 
+3. Pesanan yabg sudah disajikan
+4.pembayaran
+5. Input list data / nomor meja
+6. Input uang pembayaran dari pelanggan
+7.konfirmasi pembayaran
    
    
